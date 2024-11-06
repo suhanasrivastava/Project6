@@ -1,1 +1,2 @@
-# Project6
+This project is focused on building an end-to-end solution to forecast sales in multiple stores across various cities for Rossmann Pharmaceuticals. The finance team requires a model that predicts sales six weeks ahead of time using historical sales data and other relevant factors such as promotions, competition, holidays, seasonality, and locality.
+The goal is to develop a machine learning model, integrate it into a system for forecasting, and deliver actionable insights to store managers and finance analysts.
